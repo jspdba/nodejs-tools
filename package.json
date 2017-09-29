@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-tools",
+  "version": "1.0.0",
+  "description": "nodejs tools",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspdba/nodejs-tools.git"
+  },
+  "author": "jspdba@163.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspdba/nodejs-tools/issues"
+  },
+  "homepage": "https://github.com/jspdba/nodejs-tools#readme",
+  "devDependencies": {
+    "node-xlsx": "^0.11.0"
+  }
+}
